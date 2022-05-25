@@ -58,7 +58,7 @@ window.exports = {
                 utools.copyText(itemData.code)
                 window.utools.hideMainWindow()
                 utools.showNotification('已复制')
-                // window.utools.outPlugin()
+                window.utools.outPlugin()
             },
             // 子输入框为空时的占位符，默认为字符串"搜索"
             placeholder: "搜索"
