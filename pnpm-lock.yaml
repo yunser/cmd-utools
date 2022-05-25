@@ -1,0 +1,16 @@
+lockfileVersion: 5.4
+
+specifiers:
+  uuid: ^8.3.2
+
+dependencies:
+  uuid: registry.npmmirror.com/uuid/8.3.2
+
+packages:
+
+  registry.npmmirror.com/uuid/8.3.2:
+    resolution: {integrity: sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==, registry: https://packages.aliyun.com/5f8e5aa41858a17210467a2e/npm/npm-registry/, tarball: https://registry.npmmirror.com/uuid/-/uuid-8.3.2.tgz}
+    name: uuid
+    version: 8.3.2
+    hasBin: true
+    dev: false

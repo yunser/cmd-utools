@@ -1,0 +1,13 @@
+{
+    "preload": "index.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "cmd",
+            "explain": "搜索保存的命令",
+            "cmds": [
+                "CMD"
+            ]
+        }
+    ]
+}
